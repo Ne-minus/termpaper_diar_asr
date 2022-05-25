@@ -2,7 +2,7 @@
 
 This repositiry contains two speech processing baselines. They were applied to a different sort of data in order to assess their perfromance.  
 
-# Usage. 
+# Usage 
 All you need to do is to download the .ipynb files and open them via GoogleColab/JupyterNotebook.  
 
 # Models  
