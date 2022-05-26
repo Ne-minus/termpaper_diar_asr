@@ -9,4 +9,4 @@ All you need to do is to download the .ipynb files and open them via GoogleColab
 | baseline            	| model                                  	|
 |---------------------	|----------------------------------------	|
 | Speaker diarization 	| pyannote-audio                         	|
-| ASR                 	| facebook/wav2vec2-xlsr-53-espeak-cv-ft 	|
+| ASR                 	| wav2vec2-xlsr-53-espeak-cv-ft 	|
